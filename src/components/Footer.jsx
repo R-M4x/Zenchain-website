@@ -23,9 +23,7 @@ const Footer = () => {
     ],
     resources: [
       { name: 'Litepaper', href: 'https://github.com/zenchain-protocol/litepaper' },
-      { name: 'Blog', href: 'https://www.zenchain.io/' },
-      { name: 'Support', href: '#' },
-      { name: 'Privacy Policy', href: '#' }
+      { name: 'Blog', href: 'https://www.zenchain.io/' }
     ]
   }
 
@@ -42,7 +40,7 @@ const Footer = () => {
     },
     {
       name: 'Discord',
-      href: '#',
+      href: 'https://discord.gg/krysvGd9',
       icon: <MessageCircle className="h-5 w-5" />
     },
     {
@@ -172,12 +170,12 @@ const Footer = () => {
         <div className="border-t border-border mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-sm text-muted-foreground">
-              © 2024 ZenChain Protocol. All rights reserved.
+              © 2025 ZenChain. Made by R_lvl4x All rights reserved.
             </div>
             <div className="flex items-center space-x-6 text-sm text-muted-foreground">
               <span>Chain ID: 8408</span>
               <span>Native Token: ZTC</span>
-              <span>Block Time: 6s</span>
+              <span></span>
             </div>
           </div>
         </div>
