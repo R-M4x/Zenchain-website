@@ -59,10 +59,10 @@ const Community = () => {
   ]
 
   const stats = [
-    { label: "Community Members", value: "65K+" },
-    { label: "Active Validators", value: "500+" },
-    { label: "GitHub Stars", value: "2.5K+" },
-    { label: "Developer Tools", value: "25+" }
+    { label: "Participants", value: "1M+" },
+    { label: "XP-Earned", value: "276M+" },
+    { label: "Twitter followers", value: "70K+" },
+    { label: "Discord members", value: "100k+" }
   ]
 
   return (
