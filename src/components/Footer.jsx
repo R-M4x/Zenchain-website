@@ -4,26 +4,26 @@ import zenChainLogo from '../assets/zenchain-logo.png'
 const Footer = () => {
   const footerLinks = {
     product: [
-      { name: 'About ZenChain', href: '#about' },
-      { name: 'Technology', href: '#technology' },
-      { name: 'Ecosystem', href: '#ecosystem' },
-      { name: 'Roadmap', href: 'https://www.zenchain.io' }
+      { name: 'Zenquest', href: 'https://zenquest.zenchain.io?referral=pv0CeBk3613_UDB6DssFgADojW6gxZmcaalsSKGbJz4' },
+      { name: 'Status', href: 'https://status.zenchain.io/' },
+      { name: 'Ecosystem', href: 'https://www.zenchain.io/ecosystem' },
+      { name: 'Roadmap', href: 'https://www.zenchain.io/blog/zenchains-road-ahead' }
     ],
     developers: [
       { name: 'Documentation', href: 'https://docs.zenchain.io' },
       { name: 'Testnet Faucet', href: 'https://faucet.zenchain.io' },
-      { name: 'GitHub', href: 'https://github.com/zenchain-protocol' },
-      { name: 'API Reference', href: 'https://docs.zenchain.io' }
+      { name: 'Testnet Bridge', href: 'https://zenbridge.zenchain.io/' },
+      { name: 'Github', href: 'https://github.com/zenchain-protocol' }
     ],
     community: [
       { name: 'Twitter', href: 'https://twitter.com/zen_chain' },
-      { name: 'Discord', href: '#' },
-      { name: 'Telegram', href: '#' },
+      { name: 'Discord', href: 'https://discord.gg/krysvGd9' },
+      { name: 'Telegram', href: 'https://t.me/ZenchainAnnouncements' },
       { name: 'Blog', href: 'https://www.zenchain.io/blog' }
     ],
     resources: [
       { name: 'Litepaper', href: 'https://github.com/zenchain-protocol/litepaper' },
-      { name: 'Brand Assets', href: '#' },
+      { name: 'Blog', href: 'https://www.zenchain.io/' },
       { name: 'Support', href: '#' },
       { name: 'Privacy Policy', href: '#' }
     ]
