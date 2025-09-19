@@ -100,8 +100,8 @@ const Hero = () => {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
           >
             <Button size="lg" className="group" asChild>
-              <a href="https://faucet.zenchain.io" target="_blank" rel="noopener noreferrer">
-                Start Building
+              <a href="https://zenquest.zenchain.io?referral=pv0CeBk3613_UDB6DssFgADojW6gxZmcaalsSKGbJz4" target="_blank" rel="noopener noreferrer">
+                Get Started
                 <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
               </a>
             </Button>
