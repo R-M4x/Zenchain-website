@@ -11,15 +11,15 @@ const Community = () => {
       icon: <Twitter className="h-6 w-6" />,
       description: "Follow @zen_chain for the latest updates, announcements, and ecosystem news.",
       link: "https://twitter.com/zen_chain",
-      members: "50K+ Followers",
+      members: "70K+ Followers",
       color: "bg-blue-500/10 text-blue-600 border-blue-500/20"
     },
     {
       name: "Discord",
       icon: <MessageCircle className="h-6 w-6" />,
       description: "Join our Discord community for real-time discussions, technical support, and collaboration.",
-      link: "#",
-      members: "15K+ Members",
+      link: "https://discord.gg/krysvGd9",
+      members: "100K+ Members",
       color: "bg-purple-500/10 text-purple-600 border-purple-500/20"
     },
     {
