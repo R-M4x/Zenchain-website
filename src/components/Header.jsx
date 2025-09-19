@@ -46,7 +46,7 @@ const Header = () => {
               </a>
             </Button>
             <Button asChild>
-              <a href="https://faucet.zenchain.io" target="_blank" rel="noopener noreferrer">
+              <a href="https://zenquest.zenchain.io?referral=pv0CeBk3613_UDB6DssFgADojW6gxZmcaalsSKGbJz4" target="_blank" rel="noopener noreferrer">
                 Get Started
               </a>
             </Button>
@@ -86,7 +86,7 @@ const Header = () => {
                   </a>
                 </Button>
                 <Button asChild>
-                  <a href="https://faucet.zenchain.io" target="_blank" rel="noopener noreferrer">
+                  <a href="https://zenquest.zenchain.io?referral=pv0CeBk3613_UDB6DssFgADojW6gxZmcaalsSKGbJz4" target="_blank" rel="noopener noreferrer">
                     Get Started
                   </a>
                 </Button>
